@@ -1,5 +1,8 @@
 # Amazon Books Data Pipeline 
------------
+
+## Pipeline Diagram
+
+![pipeline design](images/pipeline_diagram.png)
 
 
 ## Create a virtual environment and activate it (optional)
