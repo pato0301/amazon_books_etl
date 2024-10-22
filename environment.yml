@@ -1,0 +1,6 @@
+name: amazon_books_etl
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - pip
